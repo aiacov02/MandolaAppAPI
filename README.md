@@ -12,9 +12,9 @@ A REST API created using the Java Spark framework to receive the reports from th
 1. Create following tables in Mandola database:
     * **TwitterReports**
 
- ID | DESCRIPTION | CATEGORY | AUTHORITY | URL | DATE
------------- | ------------- | ------------ | ------------- | ------------ | ------------
-int | STRING | set {Relegious, Gender, Sexual, Class, Politics, Ethnicity, Nationality, Other} | set {Authority 1, Authority 2, Authority 3} | STRING | DATETIME   
+       ID | DESCRIPTION | CATEGORY | AUTHORITY | URL | DATE
+      ------------ | ------------- | ------------ | ------------- | ------------ | ------------
+      int | STRING | set {Relegious, Gender, Sexual, Class, Politics, Ethnicity, Nationality, Other} | set {Authority 1, Authority 2, Authority 3} | STRING | DATETIME   
     
    
         
