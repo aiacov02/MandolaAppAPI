@@ -1,14 +1,8 @@
 # MandolaAppAPI
 A REST API created using the Java Spark framework to receive the reports from the Mandolapp application and store them in a MySQL database
 
- First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
 
-ID | DESCRIPTION | CATEGORY | AUTHORITY | URL | DATE
------------- | ------------- | ------------ | ------------- | ------------ | ------------
-int | STRING | set {Relegious, Gender, Sexual, Class, Politics, Ethnicity, Nationality, Other} | set {Authority 1, Authority 2, Authority 3} | STRING | DATETIME
+
 
 **Instructions to use:**
 
@@ -18,7 +12,9 @@ int | STRING | set {Relegious, Gender, Sexual, Class, Politics, Ethnicity, Natio
 1. Create following tables in Mandola database:
     * **TwitterReports**
 
-    
+ ID | DESCRIPTION | CATEGORY | AUTHORITY | URL | DATE
+------------ | ------------- | ------------ | ------------- | ------------ | ------------
+int | STRING | set {Relegious, Gender, Sexual, Class, Politics, Ethnicity, Nationality, Other} | set {Authority 1, Authority 2, Authority 3} | STRING | DATETIME   
     
    
         
