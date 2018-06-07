@@ -27,4 +27,4 @@ A REST API created using the Java Spark framework to receive the reports from th
       int | STRING | set {Relegious, Gender, Sexual, Class, Politics, Ethnicity, Nationality, Other} | set {Authority 1, Authority 2, Authority 3} | BLOB | DATETIME
       
       
- 1. Right main class
+ 1. Run main class
