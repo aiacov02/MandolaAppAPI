@@ -13,9 +13,9 @@ Content in the first column | Content in the second column
 1. Create MySQL database named Mandola with username:root and password:1234
 1. Create following tables in Mandola database:
     * **TwitterReports**
-    ID | DESCRIPTION | CATEGORY | AUTHORITY | URL | DATE
-    ------------ | ------------- ------------ | ------------- | ------------
-    int | STRING     | set {Relegious, Gender, Sexual, Class, Politics, Ethnicity, Nationality, Other} | set {Authority 1, Authority 2, Authority 3} | STRING | DATETIME
+ID | DESCRIPTION | CATEGORY | AUTHORITY | URL | DATE
+------------ | ------------- ------------ | ------------- | ------------
+int | STRING     | set {Relegious, Gender, Sexual, Class, Politics, Ethnicity, Nationality, Other} | set {Authority 1, Authority 2, Authority 3} | STRING | DATETIME
     
     
    
