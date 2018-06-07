@@ -1,6 +1,11 @@
 # MandolaAppAPI
 A REST API created using the Java Spark framework to receive the reports from the Mandolapp application and store them in a MySQL database
 
+ First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
 **Instructions to use:**
 
 1. Download zip project file and extract to desired location or clone github project
@@ -13,9 +18,6 @@ A REST API created using the Java Spark framework to receive the reports from th
     int | STRING     | set {Relegious, Gender, Sexual, Class, Politics, Ethnicity, Nationality, Other} | set {Authority 1, Authority 2, Authority 3} | STRING | DATETIME
     
     
-    First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+   
         
     
